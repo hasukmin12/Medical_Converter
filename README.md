@@ -13,4 +13,4 @@ this code was created to convert the types of various medical images.
 
 - check_nii : check nii format file
 
-- 'reader' folder : read pkl,json formats
+- 'reader' folder : read pkl, json formats
